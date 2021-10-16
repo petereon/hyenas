@@ -22,7 +22,7 @@ Hy - while very humble in its Pandas API coverage as of now - currently boasts a
 (import [pandas [read_csv]])
 
 (
-    select  :cols [ (count_agg "long_name") (mean_agg "weight_kg")] 
+    select  :cols [(count_agg "long_name") (mean_agg "weight_kg")] 
             :from_df (read_csv "/some/data/players_21.csv") 
             :group_by ["height_cm"]
 )
