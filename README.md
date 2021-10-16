@@ -16,7 +16,7 @@ pip install ./dist/hyenas-0.0.1-py3-none-any.whl
 ```
 ## Usage
 
-Hy - while very humble in its Pandas API coverage as of now - currently boasts an SQL like interface to access dataframe structures.
+Hyenas - while very humble in its Pandas API coverage as of now - currently boasts an SQL like interface to access dataframe structures.
 ```
 (import [hyenas[*]])
 (import [pandas [read_csv]])
