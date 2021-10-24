@@ -7,7 +7,7 @@ Hyenas is a curde Hy handle written on top of Pandas API to allow for more elega
 To quickstart with Hyenas you will need to:
 
 1. Install [Hy](https://docs.hylang.org/en/alpha/)
-2. Download Hyenas by pulling this repository and executing the following commands:
+2. Install Hyenas by pulling this repository and executing the following commands:
 ```
 cd ./hyenas
 pip install -r requirements.txt
