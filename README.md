@@ -1,5 +1,11 @@
 # Quickstart
 
+```
+++++++++++++++++++++++++++++++++++++++++++++++++++++
++ THIS PROJECT IS ON HOLD TILL HYLANG MATURES SOME +
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+```
+
 Hyenas is a curde Hy handle written on top of Pandas API to allow for more elegant access to data-scientist's powerhouse that is Pandas.
 
 ## Installation
